@@ -5,7 +5,7 @@ invisible: true
 permalink: /
 ---
 
-Hi there! I am Sumaiya Chowdhury, currently working toward getting an Master's degree in [Ecotoxicology](https://www.uni-koblenz-landau.de/de/landau/fb7/studieninteressierte/master-ecotoxicology) at the
+Hi there! I am Sumaiya Chowdhury, currently working toward getting a Master's degree in [Ecotoxicology](https://www.uni-koblenz-landau.de/de/landau/fb7/studieninteressierte/master-ecotoxicology) at the
 [University of Koblenz-Landau](https://www.uni-koblenz-landau.de/de/landau), Germany.
 
 I have always been drawn to nature and environment, which eventually led me to pursue a Bachelor's degree and a Master's degree in soil and
