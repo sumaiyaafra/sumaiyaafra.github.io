@@ -1,0 +1,26 @@
+title: Sumaiya Chowdhury
+email: sumaiyaafrachowdhury@gmail.com
+description: "An MSc. student in ecotoxicology, mainly interested in the fate and toxicity of emerging contaminants in the environment."
+baseurl: "/"
+url: ""
+linkedin_username: sumaiyaafrachowdhury
+curriculum:
+  url: /assets/cv_sumaiyachowdhury.pdf
+
+# Build settings
+markdown: kramdown
+theme: academic
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
