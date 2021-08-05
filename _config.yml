@@ -10,7 +10,8 @@ curriculum:
 
 # Build settings
 markdown: kramdown
-theme: academic
+remote_theme: gaalcaras/academic
+#theme: academic
 plugins:
   - jekyll-feed
 
